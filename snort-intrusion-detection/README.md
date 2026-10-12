@@ -21,7 +21,32 @@ Intrusion detection systems help security analysts identify potentially suspicio
 - Improved understanding of how IDS tools support network security operations.
 
 ## Lab Evidence
-Screenshots and explanations from the lab will be added here.
 
-## Project Context
-This work was completed in a controlled lab environment as part of Network Security, Firewalls, and VPNs coursework.
+### 1. Snort LAN Interface Monitoring
+
+![Snort LAN Interface Status](snort-lan-status.png)
+
+Configured and verified Snort intrusion detection
+monitoring on the LAN interface in pfSense.
+The screenshot shows the active Snort interface
+status in the controlled lab environment.
+
+### 2. ICMP Intrusion Detection Alerts
+
+![Snort ICMP Alerts](snort-icmp-alerts.png)
+
+Generated ICMP traffic using a ping test and
+reviewed the resulting alerts in the Snort
+Active Log. This demonstrates how network
+activity can be detected and recorded for
+security analysis.
+
+### 3. Snort DMZ Interface Monitoring
+
+![Snort DMZ Interface Status](snort-dmz-status.png)
+
+Configured Snort monitoring on the DMZ
+interface and verified its active status.
+This exercise demonstrated intrusion
+detection monitoring across multiple
+network segments.
