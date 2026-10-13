@@ -9,7 +9,10 @@ The exercises provided practical experience using Wireshark, pfSense, and Snort 
 - **Wireshark:** Packet capture and protocol analysis
 - **pfSense:** Firewall configuration and log monitoring
 - **Snort:** Network intrusion detection and alert monitoring
-- **Network scanning utilities:** Network discovery and assessment
+- **Splunk:** Security event searching and log analysis
+- **Kiwi Syslog Server:** Centralized firewall log collection and monitoring
+- **Nmap:** Network scanning and discovery
+- **Infection Monkey:** Simulated network breach and lateral movement assessment
 
 ## Lab Activities
 
@@ -43,7 +46,10 @@ The exercises provided practical experience using Wireshark, pfSense, and Snort 
 These exercises were completed as part of academic coursework in Network Security, Firewalls, and VPNs. The repository documents work performed in a controlled lab environment.
 
 ## Documentation
-Supporting screenshots and individual lab summaries will be added to this repository.
+
+Each project section includes technical documentation,
+supporting screenshots, and explanations of the security
+concepts explored during the lab exercises.
 
 ## Project Sections
 
