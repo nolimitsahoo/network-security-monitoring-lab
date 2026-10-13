@@ -44,3 +44,30 @@ These exercises were completed as part of academic coursework in Network Securit
 
 ## Documentation
 Supporting screenshots and individual lab summaries will be added to this repository.
+
+## Project Sections
+
+### 1. Wireshark Traffic Analysis
+Analyzed ICMP and ARP network traffic to understand
+packet-level communication and network behavior.
+
+[View Wireshark Analysis](wireshark-analysis/README.md)
+
+### 2. Snort Intrusion Detection
+Configured Snort monitoring in pfSense and reviewed
+ICMP intrusion detection alerts across the lab
+environment.
+
+[View Snort Intrusion Detection](snort-intrusion-detection/README.md)
+
+### 3. pfSense Firewall Logging
+Reviewed firewall events and forwarded logs to
+Kiwi Syslog Server for centralized monitoring.
+
+[View pfSense Firewall Logging](pfsense-firewall-logging/README.md)
+
+### 4. Splunk Security Log Analysis
+Investigated network scanning and simulated attack
+activity using Splunk and Snort-generated alerts.
+
+[View Splunk Security Analysis](splunk-security-analysis/README.md)
