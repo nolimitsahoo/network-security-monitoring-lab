@@ -43,7 +43,33 @@ The log results were difficult to analyze because of inconsistent field organiza
 - Developed foundational SIEM analysis skills relevant to SOC Analyst and Security Analyst roles.
 
 ## Lab Evidence
-Screenshots of Splunk indexed events, network scan analysis, and simulated attack detection will be added here.
 
-## Project Context
-This project was completed in a controlled lab environment as part of Network Security, Firewalls, and VPNs coursework. All network attack activity described here was simulated for educational purposes.
+### 1. Splunk Indexed Events
+
+![Splunk Indexed Events](splunk-indexed-events.png)
+
+Accessed Splunk's search interface during the lab
+to examine indexed security event data. This
+exercise introduced centralized log searching
+and event monitoring.
+
+### 2. Network Scan Investigation
+
+![Splunk Nmap Search Results](splunk-nmap-search-results.png)
+
+Performed a controlled Nmap scan in the lab
+environment and reviewed related search results
+in Splunk. This exercise demonstrated how network
+scanning activity can be investigated through
+collected log data.
+
+### 3. Simulated Breach Detection
+
+![Splunk Infection Monkey Search](splunk-infection-monkey-search.png)
+
+Used Splunk to review Snort-generated alerts
+associated with an Infection Monkey breach
+simulation. The investigation highlighted the
+importance of structured log fields, including
+source and destination IP addresses, for analyzing
+potentially suspicious network activity.
