@@ -27,7 +27,32 @@ Centralized log collection helps analysts monitor events from network security d
 - Developed foundational skills relevant to Security Analyst and SOC Analyst roles.
 
 ## Lab Evidence
-Screenshots of pfSense system logs, firewall logs, and Kiwi Syslog Server events will be added here.
 
-## Project Context
-This work was completed in a controlled lab environment as part of Network Security, Firewalls, and VPNs coursework.
+### 1. pfSense System Log Monitoring
+
+![pfSense System Logs](pfsense-system-logs.png)
+
+Reviewed system log entries in pfSense to examine
+firewall system activity and understand how
+operational events are recorded for troubleshooting
+and security monitoring.
+
+### 2. pfSense Firewall Traffic Logs
+
+![pfSense Firewall Logs](pfsense-firewall-logs.png)
+
+Examined firewall traffic logs in pfSense to observe
+network activity and review information about
+traffic processed by the firewall. These logs
+provide visibility that can support network
+investigations.
+
+### 3. Centralized Logging with Kiwi Syslog Server
+
+![Kiwi Syslog Server Events](kiwi-syslog-events.png)
+
+Configured log forwarding from pfSense to Kiwi
+Syslog Server and verified that firewall events
+appeared in the centralized logging interface.
+This demonstrated how security events can be
+collected and reviewed outside the firewall.
