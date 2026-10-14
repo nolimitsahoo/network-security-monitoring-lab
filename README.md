@@ -43,7 +43,7 @@ The exercises provided practical experience using Wireshark, pfSense, and Snort 
 - Practiced documenting technical findings from hands-on exercises.
 
 ## Project Context
-These exercises were completed as part of academic coursework in Network Security, Firewalls, and VPNs. The repository documents work performed in a controlled lab environment.
+These exercises were completed as part of coursework in Network Security. The repository documents work performed in a controlled lab environment.
 
 ## Documentation
 
