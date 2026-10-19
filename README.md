@@ -1,7 +1,7 @@
 # Network Security Monitoring & Intrusion Detection
 
 ## Project Overview
-This repository documents hands-on academic cybersecurity labs focused on analyzing network traffic, monitoring firewall activity, and configuring intrusion detection systems.
+This repository documents hands on academic cybersecurity labs focused on analyzing network traffic, monitoring firewall activity, and configuring intrusion detection systems.
 
 The exercises provided practical experience using Wireshark, pfSense, and Snort to examine network communications and understand how security tools help identify suspicious activity.
 
